@@ -2,7 +2,7 @@
 JavaScript self taught coding
 
 ## JavaScript Introduction
-[Introduction to JavaScript](https://github.com/benjavicha1/JavaScript-Bootcamp/Intro-to-JavaScript/)
+[Introduction to JavaScript](https://github.com/benjavicha1/JavaScript-Bootcamp/tree/master/Intro-to-JavaScript)
 
 
 ## JavaScript: Understanding the Weird Parts
