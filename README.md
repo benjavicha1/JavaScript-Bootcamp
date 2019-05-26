@@ -6,7 +6,7 @@ JavaScript self taught coding
 
 
 ## JavaScript for Web
-Type in command "live-server 1_output.html" to run the web in watch mode
+Type in command `live-server 1_output.html` to run the web in watch mode
 
 2. [JavaScript for Web](https://github.com/benjavicha1/JavaScript-Bootcamp/tree/master/JavaScript-for-Web)
 
